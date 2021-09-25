@@ -1,0 +1,19 @@
+body {
+	background-color: #152028;
+}
+
+body h1 {
+	color: white;
+	font-family: Verdana;
+}
+
+body h2 {
+	font-family: Verdana;
+	color: white;
+}
+
+body h0 {
+	font-family: Arial;
+	font-size: 14;
+	color: white;
+}
